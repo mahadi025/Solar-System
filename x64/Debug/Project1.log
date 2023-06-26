@@ -1,0 +1,6 @@
+﻿  Application.cpp
+D:\Code\Visual Studio Projects\Solar System\src\Application.cpp(242,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual Studio Projects\Solar System\src\Application.cpp(253,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual Studio Projects\Solar System\src\Application.cpp(265,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual Studio Projects\Solar System\src\Application.cpp(278,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> D:\Code\Visual Studio Projects\Solar System\x64\Debug\Project1.exe
